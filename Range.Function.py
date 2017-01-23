@@ -12,3 +12,7 @@ print(count2())
 
 
 """Print all the multiples of 5 between 10 and 200 in DECENDING order"""
+def multiple5():
+    for i in range (200, 9, -5):
+        print(i)
+multiple5()
