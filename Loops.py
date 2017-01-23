@@ -4,7 +4,7 @@ import turtle
 
 def square():
     MRthoe = turtle.Turtle()
-    for i in range(4):
-        MRthoe.fd(150)
-        MRthoe.rt(90)
+    for i in range(100):
+        MRthoe.fd(10)
+        MRthoe.lt(3.6)
 square()
