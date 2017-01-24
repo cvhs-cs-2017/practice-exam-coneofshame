@@ -8,3 +8,4 @@ def square():
         MRthoe.fd(10)
         MRthoe.lt(3.6)
 square()
+input()
