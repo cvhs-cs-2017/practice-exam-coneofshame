@@ -34,4 +34,8 @@ thoe.fd(75)
 thoe.lt(90)
 thoe.down()
 thoe.circle(150, 180)
-input()
+
+
+from Myfile import polygon
+turtle.clearscreen()
+polygon(10)
